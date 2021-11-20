@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Rubik", sans-serif;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-top: 47px;
+}
+
+.logo {
+    margin-top: 5px;
+}
+
+nav {
+    display: flex;
+    gap: 40px;
+}
